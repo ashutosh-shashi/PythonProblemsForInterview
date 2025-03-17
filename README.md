@@ -13,6 +13,9 @@ This repository contains Python programs based on the problems from the Python i
 
 The files are named using the following convention:
 
+- `prob<problem_number>.py` : Indicates the main problem.
+    - Example: `prob16.py` is for Problem 16.
+
 - `prob<problem_number>a<approach_number>.py` : Indicates the main problem and approach.
     - Example: `prob1a1.py` is for Problem 1 with Approach 1.
 
