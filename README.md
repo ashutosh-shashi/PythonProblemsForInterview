@@ -16,10 +16,10 @@ The files are named using the following convention:
 - `prob<problem_number>.py` : Indicates the main problem.
     - Example: `prob16.py` is for Problem 16.
 
-- `prob<problem_number>a<approach_number>.py` : Indicates the main problem and approach.
-    - Example: `prob1a1.py` is for Problem 1 with Approach 1.
+- `prob<problem_number>-a<approach_number>.py` : Indicates the main problem and approach.
+    - Example: `prob-01a1.py` is for Problem 1 with Approach 1.
 
-- `prob<problem_number>a<approach_number>-<follow_up_number>.py` : Indicates a follow-up problem related to the main problem and approach.
-    - Example: `prob1a1-1.py` is for the first follow-up problem related to Problem 1 with Approach 1.
+- `prob<problem_number>-a<approach_number>-<follow_up_number>.py` : Indicates a follow-up problem related to the main problem and approach.
+    - Example: `prob-01a1-1.py` is for the first follow-up problem related to Problem 1 with Approach 1.
 
 
